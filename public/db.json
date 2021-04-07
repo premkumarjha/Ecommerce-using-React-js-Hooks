@@ -1,0 +1,64 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "images":"./images/krishana.jpg",
+        "sku": 18644119330491312,
+        "title": "Gemini Oil",
+        "priceBeforDiscount": 255,
+        "priceAfterDiscount":240,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 2,
+        "images":"./images/krishana.jpg",
+        "sku": 11854078013954528,
+        "title": "Gulab jamun",
+        "priceBeforDiscount": 340,
+        "priceAfterDiscount":300,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 3,
+        "images":"./images/krishana.jpg",
+        "sku": 876661122392077,
+        "title": "Medimix soap",
+        "priceBeforDiscount": 45,
+        "priceAfterDiscount":35,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 4,
+        "images":"./images/krishana.jpg",
+        "sku": 9197907543445677,
+        "title": "Rasgulla",
+        "priceBeforDiscount": 500,
+        "priceAfterDiscount":400,
+        "isFreeShipping": false
+      },
+  
+      {
+        "id": 5,
+        "images":"./images/krishana.jpg",
+        "sku": 10547961582846888,
+        "title": "Safola Oil",
+        "priceBeforDiscount": 200,
+        "priceAfterDiscount":150,
+        "isFreeShipping": false
+      },
+  
+      {
+        "id": 6,
+        "images":"./images/krishana.jpg",
+        "sku": 6090484789343891,
+        "title": "Surf Excel",
+        "priceBeforDiscount": 90,
+        "priceAfterDiscount":70,
+        "isFreeShipping": false
+      }
+    
+    ]
+  }
